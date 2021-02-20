@@ -1,6 +1,6 @@
 Biochar Star
 
-Biochar Star is a webpage template for a business.  The webpage submitted in class was designed to satsify specific requiremnts for the class.  I will  transition it to a business webpage in the future that sells biochar and related items. It was tested and works on Google Chrome.   
+Biochar Star is a webpage template for a business.  The webpage submitted in class was designed to satsify specific requiremnts for the class.  I will  transition it to a business webpage in the future that sells biochar and related items. It was tested and works on Google Chrome   
 
 CSS 
 
